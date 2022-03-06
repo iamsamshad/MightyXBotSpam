@@ -7,11 +7,11 @@ from .. import Mig, Mig2, Mig3, Mig4, Mig5, Mig6, Mig7, Mig8, Mig9, Mig10, ALIVE
 from MightyXSpam.plugins.help import *
 
 
-MIG_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2ead82e77994638db6e39.jpg"
+MIG_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/6442e48f28ce127f45ceb.jpg"
 
 Mig_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/@MightyXSupport")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Call_mee_professor)
         ],
         [
         Button.inline("• ᴄᴍᴅs •", data="help_back")
@@ -20,8 +20,8 @@ Mig_Button = [
                
 MigX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Call_mee_professor"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Call_mee_professor")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/BeingMighty/MightyXBotSpam")
