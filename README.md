@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/17df2d8536474db7e9ee9.jpg"width="350"" alt="MightyXSpam Logo">
+  <img src="https://telegra.ph/file/6442e48f28ce127f45ceb.jpg"width="350"" alt="MightyXSpam Logo">
 </p>
 <h1 align="center">
   <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
@@ -22,9 +22,9 @@
 
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚡ Updates Channel ⚡](https://t.me/Call_mee_professor)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [✨ Support Group ✨](https://t.me/Call_mee_professor)
 <br>
 
 <details>
